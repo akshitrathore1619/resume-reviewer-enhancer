@@ -10,7 +10,7 @@ An AI-powered Resume Reviewer & Enhancer that analyzes resumes, suggests improve
 ## How to Use
 1. Send a `POST` request to the Mira Flow API:
 
-https://mira.ai/api/your-username/resume-reviewer-enhancer
+https://flows.mira.network/flows?author=akshitrathore&flow=resume-reviewer-enhancer
 
 2. Provide a resume in text format.
 3. Get feedback on missing sections, keyword suggestions, and structure improvements.
